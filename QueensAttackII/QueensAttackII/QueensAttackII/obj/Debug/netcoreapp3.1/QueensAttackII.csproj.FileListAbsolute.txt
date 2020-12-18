@@ -1,0 +1,13 @@
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\bin\Debug\netcoreapp3.1\QueensAttackII.exe
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\bin\Debug\netcoreapp3.1\QueensAttackII.deps.json
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\bin\Debug\netcoreapp3.1\QueensAttackII.runtimeconfig.json
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\bin\Debug\netcoreapp3.1\QueensAttackII.runtimeconfig.dev.json
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\bin\Debug\netcoreapp3.1\QueensAttackII.dll
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\bin\Debug\netcoreapp3.1\QueensAttackII.pdb
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\obj\Debug\netcoreapp3.1\QueensAttackII.csprojAssemblyReference.cache
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\obj\Debug\netcoreapp3.1\QueensAttackII.AssemblyInfoInputs.cache
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\obj\Debug\netcoreapp3.1\QueensAttackII.AssemblyInfo.cs
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\obj\Debug\netcoreapp3.1\QueensAttackII.csproj.CoreCompileInputs.cache
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\obj\Debug\netcoreapp3.1\QueensAttackII.dll
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\obj\Debug\netcoreapp3.1\QueensAttackII.pdb
+F:\C#\HackerRank\QueensAttackII\QueensAttackII\QueensAttackII\obj\Debug\netcoreapp3.1\QueensAttackII.genruntimeconfig.cache
