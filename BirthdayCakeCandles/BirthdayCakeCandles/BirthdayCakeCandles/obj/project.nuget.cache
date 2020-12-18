@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OyfoZtYLUdCpjP1zY7JGosQmSSNZaBM+Uj0wQ0ez+D0g1Tvc6K3TD9vtQRQ884tvmqOz9uvbYm3F3JNQk2G3fQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
