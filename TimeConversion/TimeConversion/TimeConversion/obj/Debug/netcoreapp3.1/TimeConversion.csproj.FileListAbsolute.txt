@@ -1,0 +1,13 @@
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.exe
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.deps.json
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.json
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.dev.json
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.dll
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.pdb
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csprojAssemblyReference.cache
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfoInputs.cache
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfo.cs
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csproj.CoreCompileInputs.cache
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.dll
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.pdb
+F:\C#\HackerRank\TimeConversion\TimeConversion\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.genruntimeconfig.cache
