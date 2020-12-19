@@ -9,9 +9,9 @@ namespace QueensAttackII
         {
             int n = 4, k = 0, r_q = 4, c_q = 4;
             int[][] obstacles = new int[0][];
-            Console.WriteLine(queensAttack(n, k, r_q, c_q, obstacles));
+            Console.WriteLine(QueensAttack(n, k, r_q, c_q, obstacles));
         }
-        static int queensAttack(int n, int k, int r_q, int c_q, int[][] obstacles)
+        static int QueensAttack(int n, int k, int r_q, int c_q, int[][] obstacles)
         {
             int[] dr = {-1, 1, 0, 0, -1, 1, -1, 1};
             int[] dc = {0, 0, -1, 1, -1, -1, 1, 1};

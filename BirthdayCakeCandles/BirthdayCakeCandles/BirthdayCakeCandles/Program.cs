@@ -9,7 +9,7 @@ namespace BirthdayCakeCandles
         {
             Console.WriteLine("Hello World!");
         }
-        public static int birthdayCakeCandles(List<int> candles)
+        public static int BirthdayCakeCandles(List<int> candles)
         {
             if (candles.Count == 0) return 0;
             var dict = new Dictionary<int, int>();

@@ -1,0 +1,13 @@
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.1\BiggerIsGreater.exe
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.1\BiggerIsGreater.deps.json
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.1\BiggerIsGreater.runtimeconfig.json
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.1\BiggerIsGreater.runtimeconfig.dev.json
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.1\BiggerIsGreater.dll
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\bin\Debug\netcoreapp3.1\BiggerIsGreater.pdb
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.1\BiggerIsGreater.csprojAssemblyReference.cache
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.1\BiggerIsGreater.AssemblyInfoInputs.cache
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.1\BiggerIsGreater.AssemblyInfo.cs
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.1\BiggerIsGreater.csproj.CoreCompileInputs.cache
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.1\BiggerIsGreater.dll
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.1\BiggerIsGreater.pdb
+F:\C#\HackerRank\BiggerIsGreater\BiggerIsGreater\BiggerIsGreater\obj\Debug\netcoreapp3.1\BiggerIsGreater.genruntimeconfig.cache
