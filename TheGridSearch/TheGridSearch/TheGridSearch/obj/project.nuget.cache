@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JFeptvbnbvscH/as5Rsd9I8MFbAcz8o6Xx//4w/X9bhp28S6oXhQ66nlK0BP1x8+YATaA9M2N45iomTm6szSvQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\HackerRank\\TheGridSearch\\TheGridSearch\\TheGridSearch\\TheGridSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
