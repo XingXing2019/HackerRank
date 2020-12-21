@@ -1,0 +1,13 @@
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.exe
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.deps.json
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.runtimeconfig.json
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.runtimeconfig.dev.json
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.dll
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\bin\Debug\netcoreapp3.1\GradingStudents.pdb
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.csprojAssemblyReference.cache
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.AssemblyInfoInputs.cache
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.AssemblyInfo.cs
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.csproj.CoreCompileInputs.cache
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.dll
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.pdb
+F:\C#\HackerRank\GradingStudents\GradingStudents\GradingStudents\obj\Debug\netcoreapp3.1\GradingStudents.genruntimeconfig.cache
